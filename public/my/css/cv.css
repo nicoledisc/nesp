@@ -1,0 +1,51 @@
+body {
+    background-color: wheat;
+
+}
+
+div>label, p, li{
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.centerClass{
+    text-align: center;
+}
+table {
+    border: 2px solid darkgoldenrod; 
+    border-collapse: collapse; 
+    Width: 40%;
+    }
+    
+td, th {
+    border: 1px solid black; 
+    padding: 3px; 
+    text-align: center;
+    }
+h1, h3 {
+    color: darkgoldenrod;
+}
+#imgBorder{
+    border: 3px solid darkgoldenrod;
+    padding: 2px;
+    margin: 5px;
+}
+
+img:hover{
+    width: 300px;
+}
+
+.myClass {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#borderedTable{
+    border: darkgoldenrod ridge;
+
+}
+#bordered {
+    border: darkgoldenrod ridge;
+    background-color: lightgoldenrodyellow;
+}
